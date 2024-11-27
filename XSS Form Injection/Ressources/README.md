@@ -21,6 +21,12 @@ Lorsqu'un autre utilisateur a visité cette page contenant le script malveillant
 - Alternativement, essayez en modifiant la valeur de maxlength de input :
 
 ```html
+<button onClick="alert(42)">XSS</button>
+```
+
+- Ou :
+
+```html
 <button
   onclick="document.vulnerable=true;"
   onmouseover="document.vulnerable=true;"

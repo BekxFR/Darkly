@@ -42,22 +42,26 @@ Ce projet constitue une introduction à la cybersécurité dans le domaine du we
 - **Utilisation d'Outils de Sécurité** : Familiarisation avec des outils et techniques utilisés dans le domaine de la cybersécurité, bien que l'utilisation d'outils automatisés soit limitée pour encourager la compréhension manuelle.
 - **Documentation et Communication** : Importance de documenter les processus et d'expliquer clairement les méthodes utilisées lors de l'évaluation.
 
+
+## Failles trouvées
 <details>
-<summary>Liste des failles trouvées</summary>
-- [Bruteforce](https://github.com/BekxFR/Darkly/blob/main/Bruteforce/Ressources/README.md)
-- [Cookie%20Vulnerability](https://github.com/BekxFR/Darkly/blob/main/Cookie%20Vulnerability/Ressources/README.md)
-- [Crawlers](https://github.com/BekxFR/Darkly/blob/main/Crawlers/Ressources/README.md)
-- [File Inclusion](https://github.com/BekxFR/Darkly/blob/main/File%20Inclusion/Ressources/README.md)
-- [Formulaire Survey](https://github.com/BekxFR/Darkly/blob/main/Formulaire%20Survey/Ressources/README.md)
-- [Low Admin Pass](https://github.com/BekxFR/Darkly/blob/main/Low%20Admin%20Pass/Ressources/README.md)
-- [Modification Redirection](https://github.com/BekxFR/Darkly/blob/main/Modification%20Redirection/Ressources/README.md)
-- [Recover](https://github.com/BekxFR/Darkly/blob/main/Bruteforce/Recover/README.md)
-- [Request Header](https://github.com/BekxFR/Darkly/blob/main/Request%20Header/Ressources/README.md)
-- [SQL Injection Member Search](https://github.com/BekxFR/Darkly/blob/main/SQL%20Injection%20Member%20Search/Ressources/README.md)
-- [SQL Injection Search Image](https://github.com/BekxFR/Darkly/blob/main/SQL%20Injection%20Search%20Image/Ressources/README.md)
-- [Upload Injection](https://github.com/BekxFR/Darkly/blob/main/Upload%20Injection/Ressources/README.md)
-- [XSS Form Injection](https://github.com/BekxFR/Darkly/blob/main/XSS%20Form%20Injection/Ressources/README.md)
+<summary>Liste des failles</summary>
+   
+- [Bruteforce](https://github.com/BekxFR/Darkly/blob/main/Bruteforce/Ressources/README.md)  
+- [Cookie Vulnerability](https://github.com/BekxFR/Darkly/blob/main/Cookie%20Vulnerability/Ressources/README.md)  
+- [Crawlers](https://github.com/BekxFR/Darkly/blob/main/Crawlers/Ressources/README.md)  
+- [File Inclusion](https://github.com/BekxFR/Darkly/blob/main/File%20Inclusion/Ressources/README.md)  
+- [Formulaire Survey](https://github.com/BekxFR/Darkly/blob/main/Formulaire%20Survey/Ressources/README.md)  
+- [Low Admin Pass](https://github.com/BekxFR/Darkly/blob/main/Low%20Admin%20Pass/Ressources/README.md)  
+- [Modification Redirection](https://github.com/BekxFR/Darkly/blob/main/Modification%20Redirection/Ressources/README.md)  
+- [Recover](https://github.com/BekxFR/Darkly/blob/main/Recover/README.md)  
+- [Request Header](https://github.com/BekxFR/Darkly/blob/main/Request%20Header/Ressources/README.md)  
+- [SQL Injection Member Search](https://github.com/BekxFR/Darkly/blob/main/SQL%20Injection%20Member%20Search/Ressources/README.md)  
+- [SQL Injection Search Image](https://github.com/BekxFR/Darkly/blob/main/SQL%20Injection%20Search%20Image/Ressources/README.md)  
+- [Upload Injection](https://github.com/BekxFR/Darkly/blob/main/Upload%20Injection/Ressources/README.md)  
+- [XSS Form Injection](https://github.com/BekxFR/Darkly/blob/main/XSS%20Form%20Injection/Ressources/README.md)  
 - [XSS Url Injection](https://github.com/BekxFR/Darkly/blob/main/XSS%20Url%20Injection/Ressources/README.md)
+
 </details>
 
 ## Conclusion
